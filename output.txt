@@ -1,2 +1,2 @@
 
-git clone https://github.com/master-dharesh/python.git
+git clone https://github.com/master-dharesh/python
